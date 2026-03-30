@@ -1,5 +1,6 @@
 # Data Warehouse and Analytics Project
 
+#### Objective
 Building a modern data warehouse with SQL Sever, including ETL processes, data modeling, and analytics
 
 #### Specifications:
@@ -9,6 +10,7 @@ Building a modern data warehouse with SQL Sever, including ETL processes, data m
 - **Scope:** Focus on the latest dataset only, historization of data is not required
 - **Documentations:** Clear documentations of the data model to support both business stakeholders and analytics teams
 
+---
 
 ### BI: Analytics & Reporting
 
